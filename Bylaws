@@ -1,4 +1,4 @@
-Amerians for Representation Constitution
+Americans for Representation Constitution
 --------------------
 
 1. Name and Purpose
@@ -51,7 +51,20 @@ Proposals and resolutions shall be voted on by members using a combination of sc
 4.1 Resolutions
 ================
 A total score of 9 out of 10 (90%) is required for immediate passage of a resolution. 
-If a lower score is achieved, multiple additional re-votes
+If a lower score is achieved, multiple additional re-votes are required with the following strength. 
+
+Approval Rating	Passage Time	Passage Speed
+(%)	(# sessions)	(1/session)
+90	1	1.0000
+85	2	0.5000
+81	3	0.3333
+78	4	0.2500
+74	5	0.2000
+70	6	0.1667
+66	7	0.1429
+62	8	0.1250
+57	9	0.1111
+51	10	0.1000
 
 
 
