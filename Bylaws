@@ -34,6 +34,7 @@ Dues may be waived due to financial hardship.
 Regular meetings shall be held at least once per month.
 All members are eligible to attend and vote in meetings. 
 Members shall receive at least 5 days advance notice of meetings. 
+Meetings shall be used to evaluate and enact proposals. 
 
 3.1 Proposals
 ==============
@@ -50,15 +51,16 @@ Proposals  shall be voted on by members using a combination of scored voting and
 A total score of at least 9 out of 10 (90%) is required for immediate passage of a resolution. 
 If a score less than 90% is achieved, multiple additional re-votes are required.
 
-The speed of passage shall be determined through the average score of the proposal polled across multiple votes of the proposal. A proposal shall be adopted when proposal distance exceeds 1.0. At least 6 days must pass from the last vote in order to re-vote on a proposal. 
+The speed of passage shall be determined through the accumulated scores of the proposal polled across multiple votes of the proposal. A proposal shall be adopted when proposal distance exceeds 1.0. At least 6 days must pass from the last vote in order to re-vote on a proposal. 
 Proposal distance is defined by the sum of all passage-speeds for each vote and revote of a proposal. 
 Proposal distance shall be set to zero if a proposal score falls below 51% for a vote. 
+Passage speeds are determined from the table below.
 
-Rating	Passage-Time	Passage-Speed
+Rating(At-Least)	Passage-Time	Passage-Speed
 (%)	(#sessions)	(1/session)
 90	1	1.0000
 85	2	0.5000
-81	3	0.3333
+81	3	0.3334
 78	4	0.2500
 74	5	0.2000
 70	6	0.1667
