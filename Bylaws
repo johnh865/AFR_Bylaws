@@ -3,8 +3,7 @@ Americans for Representation Constitution
 
 1. Name and Purpose
 --------------------
-
-The Name of this organization shall be the Americans for Representation (AFR), a not-for-profit organization. The purpose of the AFR is to empower ordinary people through community organization. The objective of the AFR is to represent its members' interests in order to enact political, social, and economic change. The AFR shall be cooperatively run by its members using democratic principles. 
+The Name of this organization shall be the Americans for Representation (USA4R), a not-for-profit organization. The purpose of  USA4R is to empower ordinary people through community organization. The objective of the USA4R is to represent its members' interests in order to enact political, social, and economic change. The USA4R shall be cooperatively run by its members using democratic principles. 
 
 
 2. Membership
@@ -34,27 +33,29 @@ Dues may be waived due to financial hardship.
 -------------
 Regular meetings shall be held at least once per month.
 All members are eligible to attend and vote in meetings. 
-Voting power of members shall be equal.
+Members shall receive at least 5 days advance notice of meetings. 
 
 3.1 Proposals
 ==============
 Proposals & Resolutions can be made to direct all activites of the AFR and the AFR staff. 
+Voting power of members shall be equal.
 Members may directly vote on meeting proposals. 
-Members may participate by delegating voting power to another AFR member who can act as their representative. 
-Non-members may vote in meetings if allowed by a 90% approval vote of members.
+Members may participate by delegating voting power other AFR members, who can act as their representative. 
+Non-members may vote in meetings if allowed by a 90% rating vote of members.
 
 
 4 Voting Procedure
 ----------------------
-Proposals and resolutions shall be voted on by members using a combination of scored voting and delegated voting. 
+Proposals  shall be voted on by members using a combination of scored voting and delegated voting. 
+A total score of at least 9 out of 10 (90%) is required for immediate passage of a resolution. 
+If a score less than 90% is achieved, multiple additional re-votes are required.
 
-4.1 Resolutions
-================
-A total score of 9 out of 10 (90%) is required for immediate passage of a resolution. 
-If a lower score is achieved, multiple additional re-votes are required with the following strength. 
+The speed of passage shall be determined through the average score of the proposal polled across multiple votes of the proposal. A proposal shall be adopted when proposal distance exceeds 1.0. At least 6 days must pass from the last vote in order to re-vote on a proposal. 
+Proposal distance is defined by the sum of all passage-speeds for each vote and revote of a proposal. 
+Proposal distance shall be set to zero if a proposal score falls below 51% for a vote. 
 
-Approval Rating	Passage Time	Passage Speed
-(%)	(# sessions)	(1/session)
+Rating	Passage-Time	Passage-Speed
+(%)	(#sessions)	(1/session)
 90	1	1.0000
 85	2	0.5000
 81	3	0.3333
@@ -65,6 +66,14 @@ Approval Rating	Passage Time	Passage Speed
 62	8	0.1250
 57	9	0.1111
 51	10	0.1000
+
+4.1 Bylaw Amendments
+======================
+The bylaws shall be amended using the Section 4 Voting Procedure. However at least **30 days** must pass from the last vote in order to revote on a bylaw amendment.
+
+4.2 Quorum
+==========
+Quorum shall be estalished by attendance of at least 50% of members. Non-attending, delegated votes shall be counted in the quorum. 
 
 
 
