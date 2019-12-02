@@ -1,15 +1,14 @@
 Americans for Representation Constitution
 ==========================================
 
-XX
 
-1. Name and Purpose
+1 Name and Purpose
 =====================
 
 The Name of this organization shall be the Americans for Representation (USA4R), a not-for-profit organization. The purpose of  USA4R is to empower ordinary people through community organization. The objective of the USA4R is to represent its members' interests in order to enact political, social, and economic change. The USA4R shall be cooperatively run by its members using democratic principles. 
 
 
-2. Membership
+2 Membership
 ================
 
 Membership is available for anyone who wishes to apply, pay monthly dues, and abide by the Constitution and bylaws. 
@@ -47,7 +46,7 @@ The member must be given 15 days prior notice of the expulsion, suspension, or t
 
 
 
-3. Meetings
+3 Meetings
 ============
 Regular meetings shall be held at least once per month.
 All members are eligible to attend and vote in meetings. 
@@ -99,16 +98,16 @@ The bylaws shall be amended using the Section 4 Voting Procedure. However at lea
 ----------------------------
 Quorum shall be estalished by attendance of at least 50% of members. Non-attending, delegated votes shall be counted in the quorum. 
 
-5. Action Without a Meeting
+5 Action Without a Meeting
 ============
 Actions may be taken without a meeting using electronic transmittion by the USA4R. 
 
-6. Officers and Staff
+6 Officers and Staff
 ============
 Staff may be hired and officers may be elected through the voting procedure. Any member of the organization is eligible to hold any office. 
 All staff shall be members of the organization. 
 
-7. Committees
+7 Committees
 ============
 Informal committees may be set up at any time. 
 
