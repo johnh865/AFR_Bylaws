@@ -1,4 +1,4 @@
-Americans for Representation Constitution
+Americans for Representation Bylaws
 ==========================================
 
 
