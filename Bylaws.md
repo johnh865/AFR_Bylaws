@@ -63,7 +63,7 @@ Non-members may vote in meetings if allowed by a 90% rating vote of members.
 
 3.2 Electronic Participation
 ----------------------------
-Members not physically present at a meeting may partcipate using electronic transmission and deemed present in person.
+Members not physically present at a meeting may partcipate using electronic communication and deemed present in person.
 
 
 4 Voting Procedure
@@ -107,7 +107,7 @@ Quorum shall be estalished by attendance of at least 50% of members. Non-attendi
 
 5 Action Without a Meeting
 ============
-Actions may be taken without a meeting by using electronic transmission to vote on proposals. 
+Actions may be taken without a meeting by using electronic communication to vote on proposals. 
 
 6 Officers and Staff
 ============
