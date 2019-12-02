@@ -69,10 +69,10 @@ Members not physically present at a meeting may partcipate using electronic tran
 4 Voting Procedure
 ======================
 Proposals shall be voted on by members using a combination of scored voting and delegated voting. 
-A total score of at least 9 out of 10 (90%) is required for immediate passage of a resolution. 
-If a score less than 90% is achieved, multiple additional re-votes are required using the procedure below in this section. 
+A total rating of at least 9 out of 10 (90%) is required for immediate passage of a resolution. 
+If a rating less than 90% is achieved, multiple additional re-votes are required for passage, using the procedure below in this section. 
 
-The speed of passage shall be determined through the accumulated scores of the proposal polled across multiple votes of the proposal. A proposal shall be adopted when proposal distance exceeds 1.0. At least 6 days must pass from the last vote in order to re-vote on a proposal. 
+The speed of passage shall be determined through the accumulated ratings of the proposal polled across multiple votes of the proposal. A proposal shall be adopted when proposal distance exceeds 1.0. At least 6 days must pass from the last vote in order to re-vote on a proposal. 
 Proposal distance is defined by the sum of all passage-speeds for each vote and revote of a proposal. 
 Proposal distance shall be set to zero if a proposal score falls below 51% for a vote. 
 Passage speeds are determined from the table below.
@@ -94,6 +94,12 @@ Passage speeds are determined from the table below.
 4.1 Bylaw Amendments
 ----------------------------
 The bylaws shall be amended using the Section 4 Voting Procedure. However at least **30 days** must pass from the last vote in order to revote on a bylaw amendment.
+
+
+4.2 Proposal Amendments
+------------------------
+A proposal may be amended, without affecting the proposal's passage distance, if the amendment achieves a higher rating than all previous ratings of the proposal. Otherwise, the proposal amendment must be considered a separate proposal starting at zero proposal distance. 
+
 
 4.2 Quorum
 ----------------------------
