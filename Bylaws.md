@@ -3,11 +3,13 @@ Americans for Representation Constitution
 
 1. Name and Purpose
 =====================
+
 The Name of this organization shall be the Americans for Representation (USA4R), a not-for-profit organization. The purpose of  USA4R is to empower ordinary people through community organization. The objective of the USA4R is to represent its members' interests in order to enact political, social, and economic change. The USA4R shall be cooperatively run by its members using democratic principles. 
 
 
 2. Membership
 ================
+
 Membership is available for anyone who wishes to apply, pay monthly dues, and abide by the Constitution and bylaws. 
 The USA4R shall have one (1) class of membership.
 
