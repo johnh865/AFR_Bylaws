@@ -14,9 +14,9 @@ The Name of this organization shall be the Americans for Representation (USA4R),
 Membership is available for anyone who wishes to apply, pay monthly dues, and abide by the Constitution and bylaws. 
 The USA4R shall have one (1) class of membership.
 
-2.1 Application
+2.1 Membership contract
 ----------------
-Every applicant for membership shall sign an application. 
+Every applicant for membership shall sign a membership contract. 
 
 2.2 Membership Expectations
 ----------------------------
