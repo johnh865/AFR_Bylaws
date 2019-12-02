@@ -20,7 +20,7 @@ Every applicant for membership shall sign a membership contract.
 
 2.2 Membership Expectations
 ----------------------------
-Members are expected to volunteer at least 10 hours per year, either with the AFR or other organizations working to advance USA4R's vision of the future. 
+Members are expected to volunteer at least 10 hours per year, either with the USA4R or other organizations working to advance USA4R's vision of the future. 
 Members are expected to vote in every possible local, county, state, primary, and federal election.
 Any member expectation may be waived due to hardship.
 Members are expected to either attend every meeting, or delegate their authority out to another member for a meeting.
@@ -55,10 +55,10 @@ Meetings shall be used to evaluate and enact proposals.
 
 3.1 Proposals
 ----------------------------
-Proposals & Resolutions can be made to direct activites of the AFR and the AFR staff. 
+Proposals & Resolutions can be made to direct activites of the USA4R and the USA4R staff. 
 Voting power of members shall be equal.
 Members may directly vote on meeting proposals. 
-Members may participate by delegating voting power other AFR members, who can act as their representative. 
+Members may participate by delegating voting power other USA4R members, who can act as their representative. 
 Non-members may vote in meetings if allowed by a 90% rating vote of members.
 
 3.2 Electronic Participation
