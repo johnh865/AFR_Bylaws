@@ -77,18 +77,19 @@ Proposal distance is defined by the sum of all passage-speeds for each vote and 
 Proposal distance shall be set to zero if a proposal score falls below 51% for a vote. 
 Passage speeds are determined from the table below.
 
-Rating(At-Least)	Passage-Time	Passage-Speed
-(%)	(#sessions)	(1/session)
-90	1	1.0000
-85	2	0.5000
-81	3	0.3334
-78	4	0.2500
-74	5	0.2000
-70	6	0.1667
-66	7	0.1429
-62	8	0.1250
-57	9	0.1111
-51	10	0.1000
+Rating(At-Least) |	Passage-Time |	Passage-Speed
+(%) |	(#sessions) |	(1/session)
+----|-------------|------------
+90	| 1           |	1.0000
+85	| 2           |	0.5000
+81	| 3           |	0.3334
+78	| 4           |	0.2500
+74	| 5           |	0.2000
+70	| 6           |	0.1667
+66	| 7           |	0.1429
+62	| 8           |	0.1250
+57	| 9           |	0.1111
+51	| 10          |	0.1000
 
 4.1 Bylaw Amendments
 ----------------------------
