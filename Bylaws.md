@@ -63,7 +63,7 @@ Non-members may vote in meetings if allowed by a 90% rating vote of members.
 
 3.2 Electronic Participation
 ----------------------------
-Members not physically present at a meeting may partcipate using electronic communication and deemed present in person.
+Members not physically present at a meeting may partcipate using electronic communication and deemed present in person. Meetings may be held using solely electronic communication. 
 
 
 4 Voting Procedure
@@ -105,18 +105,16 @@ A proposal may be amended, without affecting the proposal's passage distance, if
 ----------------------------
 Quorum shall be estalished by attendance of at least 50% of members. Non-attending, delegated votes shall be counted in the quorum. 
 
-5 Action Without a Meeting
-============
-Actions may be taken without a meeting by using electronic communication to vote on proposals. 
 
-6 Officers and Staff
+
+5 Officers and Staff
 ============
 Staff may be hired and officers may be elected through the voting procedure. Any member of the organization is eligible to hold any office. 
 All staff shall be members of the organization. 
 
-7 Committees
+6 Committees
 ============
-Informal committees may be set up at any time. 
+Informal committees may be set up.
 
 
 
