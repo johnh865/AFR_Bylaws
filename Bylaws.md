@@ -107,7 +107,7 @@ Quorum shall be estalished by attendance of at least 50% of members. Non-attendi
 
 5 Action Without a Meeting
 ============
-Actions may be taken without a meeting using electronic transmittion by the USA4R. 
+Actions may be taken without a meeting by using electronic transmission to vote on proposals. 
 
 6 Officers and Staff
 ============
