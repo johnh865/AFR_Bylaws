@@ -1,6 +1,8 @@
 Americans for Representation Constitution
 ==========================================
 
+
+
 1. Name and Purpose
 =====================
 
