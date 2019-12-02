@@ -101,7 +101,7 @@ The bylaws shall be amended using the Section 4 Voting Procedure. However at lea
 A proposal may be amended, without affecting the proposal's passage distance, if the amendment achieves a higher rating than all previous ratings of the proposal. Otherwise, the proposal amendment must be considered a separate proposal starting at zero proposal distance. 
 
 
-4.2 Quorum
+4.3 Quorum
 ----------------------------
 Quorum shall be estalished by attendance of at least 50% of members. Non-attending, delegated votes shall be counted in the quorum. 
 
