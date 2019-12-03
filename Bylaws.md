@@ -109,7 +109,7 @@ Quorum shall be estalished by attendance of at least 50% of members. Non-attendi
 
 5 Officers and Staff
 ============
-Staff may be hired and officers may be elected through the voting procedure. Any member of the organization is eligible to hold any office. 
+Staff may be hired/fired, and officers may be elected, through the voting procedure. Any member of the organization is eligible to hold any office. 
 All staff shall be members of the organization. 
 
 6 Committees
