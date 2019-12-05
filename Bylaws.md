@@ -44,8 +44,6 @@ The member must be given 15 days prior notice of the expulsion, suspension, or t
 
 
 
-
-
 3 Meetings
 ============
 Regular meetings shall be held at least once per month.
@@ -117,6 +115,9 @@ All staff shall be members of the organization.
 Informal committees may be set up.
 
 
+7 Coercion
+==========
+Coercion made against other members shall result in immediate loss of voting power and membership suspension, to be reinstated only by vote as stipulated in Section 3 --  Meetings, and Section 4 -- Voting Procedure. Coercion against other members is grounds for termination following Section 2.4 -- Removal of Members.  
 
 
 
