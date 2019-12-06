@@ -129,7 +129,7 @@ Informal committees may be set up.
 
 7 Coercion
 ==========
-Coercion made against other members shall result in immediate loss of voting power and membership suspension, to be reinstated only by vote as stipulated in Section 4 --  Meetings. Coercion against other members is grounds for termination following Section 2.4 -- Removal of Members.  
+Coercion made against other members shall result in immediate loss of voting power, delegation power, and membership suspension, to be reinstated only by vote as stipulated in Section 4 --  Meetings. Coercion against other members is grounds for termination following Section 2.4 -- Removal of Members.  
 
 
 8 Delegate Budget
