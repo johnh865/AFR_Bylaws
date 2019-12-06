@@ -20,6 +20,7 @@ Every applicant for membership shall sign a membership contract.
 
 2.2 Membership Expectations
 ----------------------------
+Members are required to vote on a delegate. 
 Members are expected to volunteer at least 10 hours per year, either with the USA4R or other organizations working to advance USA4R's vision of the future. 
 Members are expected to vote in every possible local, county, state, primary, and federal election.
 Any member expectation may be waived due to hardship.
@@ -30,8 +31,6 @@ Members are expected to either attend every meeting, or delegate their authority
 Members are expected to pay monthly dues of at least $5 per month. 
 The cost of the membership may be changed once a year using the Voting Procedure for Proposals in Section 4.
 Dues may be waived due to financial hardship.
-Membership may be suspended upon failure to pay monthly dues. 
-
 
 2.4 Removal of Members
 ----------------------------
@@ -42,31 +41,37 @@ Membership may be terminated due to failure to pay membership dues.
 
 The member must be given 15 days prior notice of the expulsion, suspension, or termination and the reasons therefor, and the member shall have an opportunity to be heard, orally or in writing, no less than 5 days before the effective date of the expulsion, suspension, or termination by a person or body authorized to decide that the proposed expulsion, termination, or suspension not take place.
 
-
+3 Delegates
+============
+Delegates shall be elected by members in order to represent members at formal meetings.
+Any member may become a delegate. 
+Delegate voting power shall be equal to the number of members who have delegated to them, plus one vote for themselves. 
+Members may split delegation to more than one delegate. 
+Delegation may be temporarily revoked when a member wishes to personally vote at a meeting and temporarily become a delegate. 
+No delegate may accumulate more than 33% of total voting power of the members. 
 
 3 Meetings
 ============
 Regular meetings shall be held at least once per month.
-All members are eligible to attend and vote in meetings. 
-Members shall receive at least 5 days advance notice of meetings. 
+All delegates are eligible to attend and vote in meetings. 
+Delegates shall receive at least 5 days advance notice of meetings. 
 Meetings shall be used to evaluate and enact proposals. 
 
 3.1 Proposals
 ----------------------------
 Proposals & Resolutions can be made to direct activites of the USA4R and the USA4R staff. 
-Voting power of members shall be equal.
+Voting power of delegates shall be proportional to the number of members who are represented by the delegate.
 Members may directly vote on meeting proposals. 
-Members may participate by delegating voting power other USA4R members, who can act as their representative. 
-Non-members may vote in meetings if allowed by a 90% rating vote of members.
+Non-members may vote in meetings if allowed by a 90% rating vote of delegates.
 
 3.2 Electronic Participation
 ----------------------------
-Members not physically present at a meeting may partcipate using electronic communication and deemed present in person. Meetings may be held using solely electronic communication. 
+Delegates not physically present at a meeting may participate using electronic communication and deemed present in person. Meetings may be held using solely electronic communication. 
 
 
 4 Voting Procedure
 ======================
-Proposals shall be voted on by members using a combination of scored voting and delegated voting. 
+Proposals shall be voted on by delgates using scored voting.
 A total rating of at least 9 out of 10 (90%) is required for immediate passage of a resolution. 
 If a rating less than 90% is achieved, multiple additional re-votes are required for passage, using the procedure below in this section. 
 
@@ -91,18 +96,16 @@ Passage speeds are determined from the table below.
 
 4.1 Bylaw Amendments
 ----------------------------
-The bylaws shall be amended using the Section 4 Voting Procedure. However at least **30 days** must pass from the last vote in order to revote on a bylaw amendment.
+The bylaws shall be amended using the Section 4 Voting Procedure. However at least **30 days** must pass from the last vote in order to revote on a bylaw amendment. An amendment shall also require one additional re-vote for passage, requiring at least 2 votes.
 
 
 4.2 Proposal Amendments
 ------------------------
 A proposal may be amended, without affecting the proposal's passage distance, if the amendment achieves a higher rating than all previous ratings of the proposal. Otherwise, the proposal amendment must be considered a separate proposal starting at zero proposal distance. 
 
-
 4.3 Quorum
 ----------------------------
-Quorum shall be estalished by attendance of at least 50% of members. Non-attending, delegated votes shall be counted in the quorum. 
-
+Quorum shall be estalished by attendance of at least 50% of total delegated voting power.  
 
 
 5 Officers and Staff
@@ -120,4 +123,7 @@ Informal committees may be set up.
 Coercion made against other members shall result in immediate loss of voting power and membership suspension, to be reinstated only by vote as stipulated in Section 3 --  Meetings, and Section 4 -- Voting Procedure. Coercion against other members is grounds for termination following Section 2.4 -- Removal of Members.  
 
 
+8 Budget
+=========
+50% of the monthly membership income of the USA4R shall be allocated to the delegates, on a monthly basis, to the delegate's budget. A delegate's budget may be spent as long as approval is obtained by 3 total members. 
 
