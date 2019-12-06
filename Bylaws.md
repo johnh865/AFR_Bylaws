@@ -41,35 +41,45 @@ Membership may be terminated due to failure to pay membership dues.
 
 The member must be given 15 days prior notice of the expulsion, suspension, or termination and the reasons therefor, and the member shall have an opportunity to be heard, orally or in writing, no less than 5 days before the effective date of the expulsion, suspension, or termination by a person or body authorized to decide that the proposed expulsion, termination, or suspension not take place.
 
+
+
+
 3 Delegates
 ============
 Delegates shall be elected by members in order to represent members at formal meetings.
 Any member may become a delegate. 
-Delegate voting power shall be equal to the number of members who have delegated to them, plus one vote for themselves. 
+Delegate voting power shall be equal to the amount of members' voting power which has been delegated to them.
 Members may split delegation to more than one delegate. 
+Members may delegate voting power to themself. 
 Delegation may be temporarily revoked when a member wishes to personally vote at a meeting and temporarily become a delegate. 
 No delegate may accumulate more than 33% of total voting power of the members. 
 
-3 Meetings
+3.1 Vote Power
+------------------
+Each member shall have 1 vote power for each meeting held. 
+Vote power may be sub-divided into fractional voting power.
+Vote power may be transferred by the member to a delegate. 
+
+
+4 Meetings
 ============
 Regular meetings shall be held at least once per month.
 All delegates are eligible to attend and vote in meetings. 
 Delegates shall receive at least 5 days advance notice of meetings. 
 Meetings shall be used to evaluate and enact proposals. 
 
-3.1 Proposals
+4.1 Proposals
 ----------------------------
 Proposals & Resolutions can be made to direct activites of the USA4R and the USA4R staff. 
-Voting power of delegates shall be proportional to the number of members who are represented by the delegate.
-Members may directly vote on meeting proposals. 
+Delegates may directly vote on meeting proposals. 
 Non-members may vote in meetings if allowed by a 90% rating vote of delegates.
 
-3.2 Electronic Participation
+4.2 Electronic Participation
 ----------------------------
 Delegates not physically present at a meeting may participate using electronic communication and deemed present in person. Meetings may be held using solely electronic communication. 
 
 
-4 Voting Procedure
+4.3 Voting Procedure
 ======================
 Proposals shall be voted on by delgates using scored voting.
 A total rating of at least 9 out of 10 (90%) is required for immediate passage of a resolution. 
@@ -94,16 +104,16 @@ Passage speeds are determined from the table below.
 | 57             | 9            | 0.1112        |
 | 51             | 10           | 0.1000        |
 
-4.1 Bylaw Amendments
+4.4 Bylaw Amendments
 ----------------------------
 The bylaws shall be amended using the Section 4 Voting Procedure. However at least **30 days** must pass from the last vote in order to revote on a bylaw amendment. An amendment shall also require one additional re-vote for passage, requiring at least 2 votes.
 
 
-4.2 Proposal Amendments
+4.5 Proposal Amendments
 ------------------------
 A proposal may be amended, without affecting the proposal's passage distance, if the amendment achieves a higher rating than all previous ratings of the proposal. Otherwise, the proposal amendment must be considered a separate proposal starting at zero proposal distance. 
 
-4.3 Quorum
+4.6 Quorum
 ----------------------------
 Quorum shall be estalished by attendance of at least 50% of total delegated voting power.  
 
@@ -120,10 +130,10 @@ Informal committees may be set up.
 
 7 Coercion
 ==========
-Coercion made against other members shall result in immediate loss of voting power and membership suspension, to be reinstated only by vote as stipulated in Section 3 --  Meetings, and Section 4 -- Voting Procedure. Coercion against other members is grounds for termination following Section 2.4 -- Removal of Members.  
+Coercion made against other members shall result in immediate loss of voting power and membership suspension, to be reinstated only by vote as stipulated in Section 4 --  Meetings. Coercion against other members is grounds for termination following Section 2.4 -- Removal of Members.  
 
 
-8 Budget
+8 Delegate Budget
 =========
-50% of the monthly membership income of the USA4R shall be allocated to the delegates, on a monthly basis, to the delegate's budget. A delegate's budget may be spent as long as approval is obtained by 3 total members. 
+50% of the monthly membership income of the USA4R shall be allocated to the delegates, on a monthly basis, to the delegate's budget. Delegate budget shall be allocated proportionate to the vote power accumulated by each delegate. A delegate's budget may be spent as long as approval is obtained by 3 total members. 
 
