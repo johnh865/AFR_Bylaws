@@ -23,7 +23,7 @@ Members are required to vote on a delegate.
 Members are expected to volunteer at least 10 hours per year, either with the USA4R or other organizations working to advance USA4R's vision of the future. 
 Members are expected to vote in every possible local, county, state, primary, and federal election.
 Any member expectation may be waived due to hardship.
-Members are expected to either attend every meeting, or delegate their authority out to another member for a meeting.
+Members are expected to either attend every meeting, or delegate their authority to another member for a meeting.
 
 2.3 Membership Dues
 ----------------------------
@@ -49,14 +49,14 @@ Delegates shall be elected by members in order to represent members at formal me
 Any member may become a delegate. 
 Delegate voting power shall be equal to the amount of members' voting power which has been delegated to them.
 Members may split delegation to more than one delegate. 
-Members may delegate voting power to themself. 
+Members may delegate voting power to them self. 
 Delegation may be temporarily revoked when a member wishes to personally vote at a meeting and temporarily become a delegate. 
 No delegate may accumulate more than 33% of total voting power of the members. 
 
 3.1 Vote Power
 ------------------
 Each member shall have 1 vote power for each meeting held. 
-Vote power may be sub-divided into fractional voting power.
+Vote power may be subdivided into fractional voting power.
 Vote power may be transferred by the member to a delegate. 
 
 
@@ -69,7 +69,7 @@ Meetings shall be used to evaluate and enact proposals.
 
 4.1 Proposals
 ----------------------------
-Proposals & Resolutions can be made to direct activites of the USA4R and the USA4R staff. 
+Proposals & Resolutions can be made to direct activities of the USA4R and the USA4R staff. 
 Delegates may directly vote on meeting proposals. 
 Non-members may vote in meetings if allowed by a 90% rating vote of delegates.
 
@@ -80,7 +80,7 @@ Delegates not physically present at a meeting may participate using electronic c
 
 4.3 Voting Procedure
 ======================
-Proposals shall be voted on by delgates using scored voting.
+Proposals shall be voted on by delegates using scored voting.
 A total rating of at least 9 out of 10 (90%) is required for immediate passage of a resolution. 
 If a rating less than 90% is achieved, multiple additional re-votes are required for passage, using the procedure below in this section. 
 
@@ -114,7 +114,7 @@ A proposal may be amended, without affecting the proposal's passage distance, if
 
 4.6 Quorum
 ----------------------------
-Quorum shall be estalished by attendance of at least 50% of total delegated voting power.  
+Quorum shall be established by attendance of at least 50% of total delegated voting power.  
 
 
 5 Officers and Staff
