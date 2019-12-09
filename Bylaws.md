@@ -79,7 +79,7 @@ Delegates not physically present at a meeting may participate using electronic c
 
 
 4.3 Voting Procedure
-======================
+----------------------------
 Proposals shall be voted on by delegates using scored voting.
 A total rating of at least 9 out of 10 (90%) is required for immediate passage of a resolution. 
 If a rating less than 90% is achieved, multiple additional re-votes are required for passage, using the procedure below in this section. 
