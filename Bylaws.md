@@ -132,7 +132,5 @@ Informal committees may be set up.
 Coercion made against other members shall result in immediate loss of voting power, delegation power, and membership suspension, to be reinstated only by vote as stipulated in Section 4 --  Meetings. Coercion against other members is grounds for termination following Section 2.4 -- Removal of Members.  
 
 
-8 Delegate Budget
-=========
-50% of the monthly membership income of the USA4R shall be allocated to the delegates, on a monthly basis, to the delegate's budget. Delegate budget shall be allocated proportionate to the vote power accumulated by each delegate. A delegate's budget may be spent as long as approval is obtained by 3 total members. 
+
 
