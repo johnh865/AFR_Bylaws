@@ -88,6 +88,7 @@ The speed of passage shall be determined through the accumulated ratings of the 
 Proposal distance is defined by the sum of all passage-speeds for each vote and revote of a proposal. 
 Proposal distance shall be set to zero if a proposal score falls below 51% for a vote. 
 Passage speeds are determined from the table below.
+A proposal or amended proposal may be immediately revoted on to replace the last proposal rating. 
 
 | Minimum Rating | Passage Time | Passage Speed |
 |----------------|--------------|---------------|
